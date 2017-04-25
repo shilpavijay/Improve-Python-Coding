@@ -1,5 +1,5 @@
 # In a plain tuple, data stored can only be retrieved using indexes. You can’t give names to individual properties 
-# stored in a tuple. This can impact code readability. Named Tuples come to the resue
+# stored in a tuple. This can impact code readability. Named Tuples come to the rescue
 
 # Named Tuples are also immutable just like regular tuples. Each object store can be accessible through a unique
 # identifier. Hence makes it very readable.
