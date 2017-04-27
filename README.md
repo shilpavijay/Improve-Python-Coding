@@ -6,4 +6,4 @@ Writing Improved and Simplified Python Code
 - Sorting a list of lists and sorting a dictionary by value - sorted.py
 - Flatenning a list in Python 3+							- Flatten.py
 - Using the new 'yield from' introduced in Python 3+        - yieldfrom.py
-- How about writing a switch-case for Python?			    - SwitchCase.py
+- How about coding a switch-case for Python?			    - SwitchCase.py
