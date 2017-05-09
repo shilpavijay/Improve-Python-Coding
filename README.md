@@ -7,3 +7,4 @@ Writing Improved and Simplified Python Code
 - Flatenning a list in Python 3+							- Flatten.py
 - Using the new 'yield from' introduced in Python 3+        - yieldfrom.py
 - How about coding a switch-case for Python?			    - SwitchCase.py
+- Using property and setters 								- Setters.py
