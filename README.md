@@ -8,3 +8,4 @@ Writing Improved and Simplified Python Code
 - Using the new 'yield from' introduced in Python 3+        - yieldfrom.py
 - How about coding a switch-case for Python?			    - SwitchCase.py
 - Using property and setters 								- Setters.py
+- Stack and other operations using Deque in collections     - Deque.py
