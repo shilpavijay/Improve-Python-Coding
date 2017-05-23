@@ -1,4 +1,5 @@
 #Writing your own context manager using the decorator @contextmanager
+
 from contextlib import contextmanager
 
 @contextmanager
@@ -8,6 +9,8 @@ def ManagedFile(name):
 		yield f 
 	finally:  
 		f.close()
+
+
 
 #Another way of doing the same is overriding __enter__ and __exit__ methods in your Class:
 
