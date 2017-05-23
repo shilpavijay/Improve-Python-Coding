@@ -9,3 +9,6 @@ Writing Improved and Simplified Python Code
 - How about coding a switch-case for Python?			    - SwitchCase.py
 - Using property and setters 								- Setters.py
 - Stack and other operations using Deque in collections     - Deque.py
+- Working with and Writing your own Context Manager         - MyContextMgr.py
+
+[link text here](/MyContextMgr.py)
