@@ -11,4 +11,4 @@ Writing Improved and Simplified Python Code
 - [Stack and other operations using Deque in collections](/Deque.py)
 - [Working with and Writing your own Context Manager](/MyContextMgr.py)
 - [Organize your files using 'shutil' and 'os'](/OrganizeFiles.py)
-- [Using Multithreading in Python](/Thread%Module)
+- [Using Multithreading in Python](/Thread%20Module)
